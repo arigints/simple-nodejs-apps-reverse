@@ -1,4 +1,4 @@
-# A387-Jarkom-Labs
+# Install Modul Nodejs Package Manager (NPM)
 
 Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
 
@@ -16,4 +16,15 @@ npm install
 
 ```
 npm run start
+```
+# Copy file reverse proxy nginx
+
+---
+
+Tata cara menjalankan project:
+
+1. Copy ke direktori nginx
+
+```
+sudo cp default /etc/nginx/sites-available/default
 ```
